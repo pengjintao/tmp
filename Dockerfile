@@ -1,1 +1,1 @@
-from gcr.io/gem5-test/ubuntu-18.04_all-dependencies
+from gcr.io/gem5-test/ubuntu-20.04_all-dependencies:v21-2
